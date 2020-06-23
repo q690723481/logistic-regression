@@ -1,5 +1,4 @@
 # -*- coding: UTF-8 -*-
-#by wangxiaohan U201514480
 import numpy as np     
 import pandas as pd
 from sklearn.linear_model import SGDClassifier
